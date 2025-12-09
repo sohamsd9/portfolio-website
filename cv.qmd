@@ -1,0 +1,27 @@
+---
+title: "Curriculum Vitae"
+---
+
+# CV
+
+You can download the latest version of my CV here:
+
+[Download my CV](files/soham-cv.pdf){.btn .btn-primary target="_blank"}
+
+---
+
+## Professional Summary
+
+I am a graduate student with a strong foundation in **data analytics, cloud computing, and systems/operations**. My experience spans academic projects, real-world manufacturing environments, and cloud-based infrastructure labs. I enjoy working on problems where I can combine technical skills with business understanding.
+
+---
+
+## Key Strengths
+
+- **Technical Skills:** Python, SQL, R, data cleaning, feature engineering, model building, and visualization.
+- **Cloud Skills:** Hands-on work with AWS (VPC, EC2, S3, IAM, load balancer) and exposure to GCP.
+- **Analytics & Reporting:** Turning raw data into dashboards, reports, and recommendations for decision-makers.
+- **Operations & Systems:** Understanding of manufacturing workflows, supply-chain concepts, and process optimization.
+- **Collaboration:** Comfortable working in teams, documenting work clearly, and presenting findings.
+
+For full details, including education, projects, and experience, please refer to the downloadable CV above.

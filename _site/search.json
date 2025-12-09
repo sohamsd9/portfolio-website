@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a graduate student focused on data analytics, cloud computing, and system design. I enjoy turning real-world problems into structured, data-driven solutions and building systems that actually work in production, not just on paper.\nOver the past few years, I’ve worked across: - Manufacturing & operations – optimizing processes, reducing shortages, and automating workflows. - Data analytics & machine learning – building models, dashboards, and insights to support decisions. - Cloud & infrastructure – deploying workloads on AWS/GCP, working with VPCs, EC2, storage, and load balancers.\n\n\n\n\nData analytics, machine learning, and MLOps\n\nCloud architecture (AWS & GCP)\n\nSupply chain and operations optimization\n\nBuilding real, usable tools for business teams\n\n\n\n\n\n\nProgramming & Data: Python, SQL, R, Pandas, scikit-learn\n\nCloud & Tools: AWS (EC2, VPC, S3, IAM), GCP (VMs, networking), Git, GitHub\n\nAnalytics & Visualization: Tableau, Power BI, Excel\n\nMethods & Practices: System analysis, project management, ETL pipelines, experimentation\n\n\n\n\n\nMy goal is to work in roles that sit at the intersection of data, systems, and business—such as:\n\nData / Business / Analytics Engineer\n\nCloud / Solutions Engineer\n\nOperations & Systems Analyst\n\nLong term, I want to design data and cloud platforms that help organizations make faster, smarter decisions and scale confidently.\n\n\n\n\nOutside academics, I’m involved in: - Family business initiatives around manufacturing and LED/OEM products\n- Hands-on experimentation with new tools, cloud platforms, and personal projects\n- Learning, teaching, and mentoring peers in analytics and cloud topics\nIf you’d like to connect, head over to the Contact tab!"
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "About Me",
+    "section": "",
+    "text": "Data analytics, machine learning, and MLOps\n\nCloud architecture (AWS & GCP)\n\nSupply chain and operations optimization\n\nBuilding real, usable tools for business teams"
+  },
+  {
+    "objectID": "index.html#core-skills",
+    "href": "index.html#core-skills",
+    "title": "About Me",
+    "section": "",
+    "text": "Programming & Data: Python, SQL, R, Pandas, scikit-learn\n\nCloud & Tools: AWS (EC2, VPC, S3, IAM), GCP (VMs, networking), Git, GitHub\n\nAnalytics & Visualization: Tableau, Power BI, Excel\n\nMethods & Practices: System analysis, project management, ETL pipelines, experimentation"
+  },
+  {
+    "objectID": "index.html#career-goals",
+    "href": "index.html#career-goals",
+    "title": "About Me",
+    "section": "",
+    "text": "My goal is to work in roles that sit at the intersection of data, systems, and business—such as:\n\nData / Business / Analytics Engineer\n\nCloud / Solutions Engineer\n\nOperations & Systems Analyst\n\nLong term, I want to design data and cloud platforms that help organizations make faster, smarter decisions and scale confidently."
+  },
+  {
+    "objectID": "index.html#outside-of-work-school",
+    "href": "index.html#outside-of-work-school",
+    "title": "About Me",
+    "section": "",
+    "text": "Outside academics, I’m involved in: - Family business initiatives around manufacturing and LED/OEM products\n- Hands-on experimentation with new tools, cloud platforms, and personal projects\n- Learning, teaching, and mentoring peers in analytics and cloud topics\nIf you’d like to connect, head over to the Contact tab!"
+  }
+]

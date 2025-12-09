@@ -1,0 +1,22 @@
+---
+title: "Contact"
+---
+
+
+I’m always open to connecting about roles, collaborations, or just discussing projects in data, cloud, and systems.
+
+---
+
+## Details
+
+- **Email:** [sohamsd9@bu.edu](mailto:sohamsd9@bu.edu)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/sohamdeshkhaire-754570270/)
+- **GitHub:** [GitHub Profile](https://github.com/sohamsd9)
+
+---
+
+## How I Prefer to Connect
+
+- For **recruiters and hiring managers** – email or LinkedIn is best.
+- For **technical questions or open-source work** – GitHub or email works great.
+- I usually respond within a couple of days, depending on my class and project schedule.

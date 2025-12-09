@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs   # needed for GitHub Pages
+
+website:
+  title: "Soham Deshkhaire"
+  navbar:
+    left:
+      - text: "About You"
+        href: index.qmd         # About page (homepage)
+      - text: "Projects"
+        href: projects.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Contact"
+        href: contact.qmd
+
+format:
+  html:
+    theme:
+      light: minty
+      dark: darkly
+    css: styles.css
+    toc: true

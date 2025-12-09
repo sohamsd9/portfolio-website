@@ -1,0 +1,50 @@
+---
+title: "About Me"
+---
+
+# Hi, I'm Soham 👋
+
+I am a graduate student focused on data analytics, cloud computing, and system design. I enjoy turning real-world problems into structured, data-driven solutions and building systems that actually work in production, not just on paper.
+
+Over the past few years, I’ve worked across:
+- **Manufacturing & operations** – optimizing processes, reducing shortages, and automating workflows.
+- **Data analytics & machine learning** – building models, dashboards, and insights to support decisions.
+
+---
+
+## Interests
+
+- Data analytics
+- Supply chain and operations optimization  
+- Building real, usable tools for business teams  
+
+---
+
+## Core Skills
+
+- **Programming & Data:** Python, SQL, R, Pandas, scikit-learn  
+- **Analytics & Visualization:** Tableau, Power BI, Excel  
+- **Methods & Practices:** System analysis, project management, ETL pipelines,experimentation
+
+---
+
+## Career Goals
+
+My goal is to work in roles that sit at the intersection of **data, systems, and business**—such as:
+
+- Data / Business / Analytics Engineer  
+- Cloud / Solutions Engineer  
+- Operations & Systems Analyst  
+
+Long term, I want to design data and cloud platforms that help organizations make faster, smarter decisions and scale confidently.
+
+---
+
+## Outside of Work & School
+
+Outside academics, I’m involved in:
+- Family business initiatives around **manufacturing and LED/OEM** products  
+- Hands-on experimentation with new tools, cloud platforms, and personal projects  
+- Learning, teaching, and mentoring peers in analytics and cloud topics  
+
+If you’d like to connect, head over to the **Contact** tab!

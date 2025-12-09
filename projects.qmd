@@ -1,0 +1,43 @@
+---
+title: "Projects"
+---
+
+Here is a selection of my academic and personal projects that highlight my skills in data, and systems.
+
+---
+
+## Job Market Analytics – Skills & Role Prediction
+
+**Tech:** SQL, Python (pandas, scikit-learn), Jupyter/Quarto, Matplotlib/Seaborn  
+
+- Analyzed a large job postings dataset to understand trends in **skills, salaries, and role categories**.
+- Engineered features and trained models such as **Logistic Regression** and **Random Forest** to classify job roles.
+- Evaluated performance using accuracy, F1-score, and AUC and compared models to select a final approach.
+- Created clear visualizations and a written report to communicate results to non-technical stakeholders.
+
+**What this demonstrates:** End-to-end analytics workflow, model comparison, and storytelling with data.
+
+---
+
+## Personal Portfolio Website (This Site)
+
+**Tech:** Quarto, HTML/CSS, Git, GitHub Pages  
+
+- Designed and built a **personal portfolio website** using Quarto.
+- Organized pages into **About**, **Projects**, **CV**, and **Contact** to align with employer expectations.
+- Customized theme/colors and added a downloadable CV, external links, and visuals.
+- Deployed the site on **GitHub Pages** and set up a clean URL for sharing with recruiters.
+
+**What this demonstrates:** Web publishing, documentation, and personal branding.
+
+---
+
+## Manufacturing & Operations Optimization (Family Business)
+
+**Tech:** Excel, basic SQL, process mapping, SAP (concepts)  
+
+- Worked on optimizing processes in a manufacturing/LED OEM context (materials, BOMs, and workflows).
+- Helped identify bottlenecks, improve visibility into shortages, and suggest process changes.
+- Used structured thinking and available data to support better decision-making.
+
+**What this demonstrates:** Real-world operations experience, problem-solving, and ability to connect data with business outcomes.

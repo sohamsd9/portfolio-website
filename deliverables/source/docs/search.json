@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "You can download the latest version of my CV here:\nDownload my CV\n\n\n\nI am a graduate student with a strong foundation in data analytics, cloud computing, and systems/operations. My experience spans academic projects, real-world manufacturing environments, and cloud-based infrastructure labs. I enjoy working on problems where I can combine technical skills with business understanding.\n\n\n\n\n\nTechnical Skills: Python, SQL, R, data cleaning, feature engineering, model building, and visualization.\nCloud Skills: Hands-on work with AWS (VPC, EC2, S3, IAM, load balancer) and exposure to GCP.\nAnalytics & Reporting: Turning raw data into dashboards, reports, and recommendations for decision-makers.\nOperations & Systems: Understanding of manufacturing workflows, supply-chain concepts, and process optimization.\nCollaboration: Comfortable working in teams, documenting work clearly, and presenting findings.\n\nFor full details, including education, projects, and experience, please refer to the downloadable CV above."
+  },
+  {
+    "objectID": "cv.html#professional-summary",
+    "href": "cv.html#professional-summary",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "I am a graduate student with a strong foundation in data analytics, cloud computing, and systems/operations. My experience spans academic projects, real-world manufacturing environments, and cloud-based infrastructure labs. I enjoy working on problems where I can combine technical skills with business understanding."
+  },
+  {
+    "objectID": "cv.html#key-strengths",
+    "href": "cv.html#key-strengths",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Technical Skills: Python, SQL, R, data cleaning, feature engineering, model building, and visualization.\nCloud Skills: Hands-on work with AWS (VPC, EC2, S3, IAM, load balancer) and exposure to GCP.\nAnalytics & Reporting: Turning raw data into dashboards, reports, and recommendations for decision-makers.\nOperations & Systems: Understanding of manufacturing workflows, supply-chain concepts, and process optimization.\nCollaboration: Comfortable working in teams, documenting work clearly, and presenting findings.\n\nFor full details, including education, projects, and experience, please refer to the downloadable CV above."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Here is a selection of my academic and personal projects that highlight my skills in data, and systems."
+  },
+  {
+    "objectID": "projects.html#job-market-analytics-skills-role-prediction",
+    "href": "projects.html#job-market-analytics-skills-role-prediction",
+    "title": "Projects",
+    "section": "Job Market Analytics – Skills & Role Prediction",
+    "text": "Job Market Analytics – Skills & Role Prediction\nTech: SQL, Python (pandas, scikit-learn), Jupyter/Quarto, Matplotlib/Seaborn\n\nAnalyzed a large job postings dataset to understand trends in skills, salaries, and role categories.\nEngineered features and trained models such as Logistic Regression and Random Forest to classify job roles.\nEvaluated performance using accuracy, F1-score, and AUC and compared models to select a final approach.\nCreated clear visualizations and a written report to communicate results to non-technical stakeholders.\n\nWhat this demonstrates: End-to-end analytics workflow, model comparison, and storytelling with data."
+  },
+  {
+    "objectID": "projects.html#personal-portfolio-website-this-site",
+    "href": "projects.html#personal-portfolio-website-this-site",
+    "title": "Projects",
+    "section": "Personal Portfolio Website (This Site)",
+    "text": "Personal Portfolio Website (This Site)\nTech: Quarto, HTML/CSS, Git, GitHub Pages\n\nDesigned and built a personal portfolio website using Quarto.\nOrganized pages into About, Projects, CV, and Contact to align with employer expectations.\nCustomized theme/colors and added a downloadable CV, external links, and visuals.\nDeployed the site on GitHub Pages and set up a clean URL for sharing with recruiters.\n\nWhat this demonstrates: Web publishing, documentation, and personal branding."
+  },
+  {
+    "objectID": "projects.html#manufacturing-operations-optimization-family-business",
+    "href": "projects.html#manufacturing-operations-optimization-family-business",
+    "title": "Projects",
+    "section": "Manufacturing & Operations Optimization (Family Business)",
+    "text": "Manufacturing & Operations Optimization (Family Business)\nTech: Excel, basic SQL, process mapping, SAP (concepts)\n\nWorked on optimizing processes in a manufacturing/LED OEM context (materials, BOMs, and workflows).\nHelped identify bottlenecks, improve visibility into shortages, and suggest process changes.\nUsed structured thinking and available data to support better decision-making.\n\nWhat this demonstrates: Real-world operations experience, problem-solving, and ability to connect data with business outcomes."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I’m always open to connecting about roles, collaborations, or just discussing projects in data, cloud, and systems."
+  },
+  {
+    "objectID": "contact.html#details",
+    "href": "contact.html#details",
+    "title": "Contact",
+    "section": "Details",
+    "text": "Details\n\nEmail: sohamsd9@bu.edu\nLinkedIn: LinkedIn Profile\nGitHub: GitHub Profile"
+  },
+  {
+    "objectID": "contact.html#how-i-prefer-to-connect",
+    "href": "contact.html#how-i-prefer-to-connect",
+    "title": "Contact",
+    "section": "How I Prefer to Connect",
+    "text": "How I Prefer to Connect\n\nFor recruiters and hiring managers – email or LinkedIn is best.\nFor technical questions or open-source work – GitHub or email works great.\nI usually respond within a couple of days, depending on my class and project schedule."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a graduate student focused on data analytics, cloud computing, and system design. I enjoy turning real-world problems into structured, data-driven solutions and building systems that actually work in production, not just on paper.\nOver the past few years, I’ve worked across: - Manufacturing & operations – optimizing processes, reducing shortages, and automating workflows. - Data analytics & machine learning – building models, dashboards, and insights to support decisions.\n\n\n\n\nData analytics\nSupply chain and operations optimization\n\nBuilding real, usable tools for business teams\n\n\n\n\n\n\nProgramming & Data: Python, SQL, R, Pandas, scikit-learn\n\nAnalytics & Visualization: Tableau, Power BI, Excel\n\nMethods & Practices: System analysis, project management, ETL pipelines,experimentation\n\n\n\n\n\nMy goal is to work in roles that sit at the intersection of data, systems, and business—such as:\n\nData / Business / Analytics Engineer\n\nCloud / Solutions Engineer\n\nOperations & Systems Analyst\n\nLong term, I want to design data and cloud platforms that help organizations make faster, smarter decisions and scale confidently.\n\n\n\n\nOutside academics, I’m involved in: - Family business initiatives around manufacturing and LED/OEM products\n- Hands-on experimentation with new tools, cloud platforms, and personal projects\n- Learning, teaching, and mentoring peers in analytics and cloud topics\nIf you’d like to connect, head over to the Contact tab!"
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "About Me",
+    "section": "",
+    "text": "Data analytics\nSupply chain and operations optimization\n\nBuilding real, usable tools for business teams"
+  },
+  {
+    "objectID": "index.html#core-skills",
+    "href": "index.html#core-skills",
+    "title": "About Me",
+    "section": "",
+    "text": "Programming & Data: Python, SQL, R, Pandas, scikit-learn\n\nAnalytics & Visualization: Tableau, Power BI, Excel\n\nMethods & Practices: System analysis, project management, ETL pipelines,experimentation"
+  },
+  {
+    "objectID": "index.html#career-goals",
+    "href": "index.html#career-goals",
+    "title": "About Me",
+    "section": "",
+    "text": "My goal is to work in roles that sit at the intersection of data, systems, and business—such as:\n\nData / Business / Analytics Engineer\n\nCloud / Solutions Engineer\n\nOperations & Systems Analyst\n\nLong term, I want to design data and cloud platforms that help organizations make faster, smarter decisions and scale confidently."
+  },
+  {
+    "objectID": "index.html#outside-of-work-school",
+    "href": "index.html#outside-of-work-school",
+    "title": "About Me",
+    "section": "",
+    "text": "Outside academics, I’m involved in: - Family business initiatives around manufacturing and LED/OEM products\n- Hands-on experimentation with new tools, cloud platforms, and personal projects\n- Learning, teaching, and mentoring peers in analytics and cloud topics\nIf you’d like to connect, head over to the Contact tab!"
+  }
+]
